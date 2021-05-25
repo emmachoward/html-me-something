@@ -1,0 +1,51 @@
+body {
+    background-color: #645141;
+    font-family: 'Asap', sans-serif;
+}
+
+header {
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Pattaya', serif;
+    font-size: 5em;
+}
+
+main {
+    background-color: #ffffff;
+    margin: auto;
+    padding: 30px;
+    width: 70%;
+    border-radius: 20px;
+    line-height: 150%;
+}
+
+img {
+    box-shadow: 5px 5px 5px #888888;
+    margin: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+/* wouldn't normally make the float an id, but I needed an id somewhere... */
+#float {
+    float: right;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Pattaya', serif;
+    font-size: 2em;
+}
+.quotes {
+
+    font-family: 'Pattaya', serif;
+}
+
+footer {
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+}
